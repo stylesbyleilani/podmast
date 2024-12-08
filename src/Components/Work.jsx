@@ -7,7 +7,7 @@ import React from 'react';
 
 const Work = () => {
   return (
-    <section className="bg-[#142f32] px-4 py-16 md:px-8 lg:px-16">
+    <section className="bg-[#142f32] px-4 py-16 md:px-8 lg:px-16" id='about'>
       <div className="max-w-3xl mx-auto flex flex-col items-center gap-6">
         <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-gray-200 text-center">
           From Idea to Production in Days

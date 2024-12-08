@@ -7,7 +7,7 @@ import { BsThreeDotsVertical } from "react-icons/bs";
 
 const Hero = () => {
   return (
-    <div className='flex justify-center items-center bg-[#f1f5f9]' id='hero'>
+    <div className='flex justify-center items-center bg-[#f1f5f9]' id='home'>
       <div className="hero-contents mt-20 w-full max-w-6xl px-4 sm:px-8 lg:px-12">
         <div className="relative z-10 text-center mt-10"> 
           <h1 className="text-4xl font-bold sm:text-5xl lg:text-6xl tracking-wide text-[#142f32]">

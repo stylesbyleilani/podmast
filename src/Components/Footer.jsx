@@ -10,7 +10,7 @@ import { FaAppStoreIos, FaFacebook, FaLinkedinIn } from 'react-icons/fa';
 
 const Footer = () => {
   return (
-    <footer className="bg-neutral-900 text-gray-200 px-4 py-8">
+    <footer className="bg-neutral-900 text-gray-200 px-4 py-8" id='contact'>
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8">
         <div>
           <h1 className="text-lg font-semibold text-gray-300 mb-3">Prodmast</h1>
