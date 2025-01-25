@@ -21,7 +21,7 @@ const Empower = () => {
 
 <button 
           className="w-[200px] py-2 bg-[#e3ffcc] text-emerald-950 rounded-full font-medium 
-                     hover:bg-green-200 focus:ring-2 focus:ring-green-300 focus:outline-none
+                     hover:bg-[#dbfcc0] focus:ring-2 focus:ring-green-300 focus:outline-none
                      transition-colors duration-200 ease-in-out
                      transform hover:scale-105"
           aria-label="Work with us"
@@ -32,7 +32,7 @@ const Empower = () => {
       </div>
 
       <div className="flex justify-center lg:justify-end lg:w-1/2 mt-8 lg:mt-0">
-        <div className="bg-[#e3ffcc] flex items-center justify-center rounded-md w-[280px] h-[300px] lg:w-[420px] lg:h-[350px] relative">
+        <div className="bg-[#e3ffcc] flex items-center justify-center rounded-md w-[280px] h-[300px]  lg:w-[420px] lg:h-[389px] relative">
           <div className="relative rounded-full p-8 lg:p-16 border border-gray-300">
             <div className="absolute -left-2 top-1/2 -translate-y-1/2 bg-white p-1 rounded-md">
               <GiStripedSun className="text-xl text-green-500" />

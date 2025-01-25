@@ -76,8 +76,8 @@ const Hero = () => {
               <ArrowUpRight/>
               <p className="text-[#142f32]">8%</p>
             </div>
-            <h1 className="font-semibold mt-4 text-3xl">1951+</h1>
-            <p className="text-gray-400 text-sm">
+            <h1 className="font-semibold mt-1 text-3xl">1951+</h1>
+            <p className="text-gray-400 text-sm ">
               Increase of <span className="text-green-400">126</span> this month 
             </p>
           </div>
